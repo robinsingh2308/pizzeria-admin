@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pizzeria-21461"
+  },
+  "targets": {
+    "pizzeria-21461": {
+      "hosting": {
+        "admin-pizzeria": [
+          "admin-pizzeria"
+        ]
+      }
+    }
+  }
+}
